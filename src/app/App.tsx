@@ -197,7 +197,7 @@ export default function App() {
             <div className="aspect-video bg-black flex items-center justify-center">
               <iframe
                 className="w-full h-full"
-                src="https://youtu.be/bP6F2CQoM8A"
+                src="https://www.youtube.com/embed/bP6F2CQoM8A?si=B1rMkyXFeGaP0JTC"
                 title="Pitch Guarávivo"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
